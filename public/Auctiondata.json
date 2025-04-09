@@ -1,0 +1,66 @@
+[
+    {
+      "id": 1,
+      "title": "Vintage Leica M3 Camera",
+      "description": "A classic 1950s rangefinder camera with exceptional build quality.",
+      "currentBidPrice": 2850,
+      "timeLeft": "2 Days left",
+      "bidsCount": 12,
+      "image": "/assets/leica-m3.png"
+    },
+    {
+      "id": 2,
+      "title": "1965 Gibson SG Standard Electric Guitar",
+      "description": "A legendary rock guitar known for its deep tones and sleek body.",
+      "currentBidPrice":  2850,
+      "timeLeft": "2 Days left",
+      "bidsCount": 8,
+      "image": "/assets/gibson-sg.png"
+    },
+    {
+      "id": 3,
+      "title": "Original Apple Macintosh 128K (1984)",
+      "description": "The very first Macintosh computer, a true piece of tech history.",
+      "currentBidPrice":  2850,
+      "timeLeft": "2 Day left",
+      "bidsCount": 25,
+      "image": "/assets/macintosh-128k.png"
+    },
+    {
+      "id": 4,
+      "title": "Rolex Submariner 16610",
+      "description": "Iconic diver's watch with timeless design and Swiss precision.",
+      "currentBidPrice":  2850,
+      "timeLeft": "2 Days left",
+      "bidsCount": 19,
+      "image": "/assets/rolex-submariner.png"
+    },
+    {
+      "id": 5,
+      "title": "First Edition 'The Great Gatsby'",
+      "description": "A rare first-edition print of F. Scott Fitzgerald’s famous novel.",
+      "currentBidPrice":  2850,
+      "timeLeft": "2 Days left",
+      "bidsCount": 14,
+      "image": "/assets/great-gatsby.png"
+    },
+    {
+      "id": 6,
+      "title": "Mid-Century Modern Eames Lounge Chair",
+      "description": "Elegant and iconic furniture design with timeless comfort.",
+      "currentBidPrice":  2850,
+      "timeLeft": "2 Days left",
+      "bidsCount": 7,
+      "image": "/assets/eames-chair.png"
+    },
+    {
+      "id": 7,
+      "title": "Banksy Original Screen Print",
+      "description": "A rare street art print by the elusive artist Banksy.",
+      "currentBidPrice":  2850,
+      "timeLeft": "2 Days left",
+      "bidsCount": 31,
+      "image": "/assets/banksy-print.png"
+    }
+  ]
+  
