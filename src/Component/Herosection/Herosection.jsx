@@ -3,7 +3,7 @@ const Herosection = () => {
     return (
 
         <div
-            className="relative h-screen bg-cover bg-center flex items-center justify-start"
+            className="relative bg-cover bg-center flex items-center justify-start h-[calc(100vh-100px)]"
             style={{
                 backgroundImage: `url('https://i.ibb.co.com/LhQJxcsC/Banner-min.jpg')`, 
             }}
